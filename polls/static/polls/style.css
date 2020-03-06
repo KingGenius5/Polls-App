@@ -1,3 +1,7 @@
 li a {
     color: green;
 }
+
+body {
+    background: white url("https://static01.nyt.com/images/2019/11/03/upshot/battleground-polls-lede-image/battleground-polls-lede-image-superJumbo.jpg") no-repeat;
+}
